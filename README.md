@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushi Bansal</h1>
-<h3 align="center">A passionate coder as well as learner from India</h3>
+<h3 align="center">An avid coder and dedicated learner hailing from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushibansal2002&label=Profile%20views&color=0e75b6&style=flat" alt="khushibansal2002" /> </p>
 
-- 🌱 I’m currently learning **Problem solving using cpp ,web development**
+- 🌱 I’m currently undertaking **an internship.**
 
-- 💬 Ask me about **cpp ,HTML,CSS**
+- 💬 Ask me about **CPP ,HTML,CSS,C,JAVA**
 
 - 📫 How to reach me **csekhushibansal@gmail.com**
 
